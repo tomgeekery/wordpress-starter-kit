@@ -1,0 +1,4 @@
+name: fictional-university
+recipe: wordpress
+config:
+  webroot: web
