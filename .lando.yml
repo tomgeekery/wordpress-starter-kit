@@ -1,4 +1,4 @@
-name: fictional-university
+name: wordpress-site
 recipe: wordpress
 config:
   webroot: web
